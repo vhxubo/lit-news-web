@@ -1,4 +1,8 @@
-# lit-news
+# lit-news-web
+
+本地测试地址: http://localhost:8080/news
+
+需要配合 [lit-news-golang](https://github.com/vhxubo/lit-news-golang) 使用
 
 ## Project setup
 ```
